@@ -24,5 +24,5 @@
 </nav>
 </head>
 <h1>Character Animation<h1>
-<video src="C:\Users\christinap\Desktop\Ed2go\Animate\animate-project-character animation\exports/project 1.wmv" controls auto
+<video src="C:\Users\christinap\Desktop\Ed2go\Animate\animate-project-character animation\exports/project 1.wmv" controls preload="auto"
 height="480" width="640></video>
