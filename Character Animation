@@ -25,6 +25,5 @@
 </head>
 <h1>Character Animation<h1>
 <body>
-<video src="C:\Users\christinap\Desktop\Ed2go\Animate\animate-project-character animation\exports/project 1.wmv" controls preload="auto"
-height="480" width="640></video>
+<img src="C:/Users/christinap/Desktop/Ed2go/Animate/Project 1.gif" alt="Character Animation">
 </body>
