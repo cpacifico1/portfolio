@@ -10,16 +10,19 @@
         <li><a href="Resume.html">Resume</a></li>
         <li><a href="AdobeAnimate.html">Adobe Animate</a></li>
          <ul>
-            <li><a href="AdobeAnimate/CharacterAnimation.html">Character Animation</a></li>
-            <li><a href="AdobeAnimate/Advertisement.html">Advertisement</a></li>
-            <li><a href="AdobeAnimate/InteractiveBanner.html">Interactive Banner</a></li>
+            <li><a href="CharacterAnimation.html">Character Animation</a></li>
+            <li><a href="Advertisement.html">Advertisement</a></li>
+            <li><a href="InteractiveBanner.html">Interactive Banner</a></li>
          </ul>
         <li><a href="AdobePhotoshop.html">Adobe Photoshop</a></li>
          <ul>
-            <li><a href="AdobePhotoshop/PhotoRestoration.html">Photo Restoration</a></li>
-            <li><a href="AdobePhotoshop/MagazineCover.html">Digital Magazine Cover</a></li>
-            <li><a href="AdobePhotoshop/Branding.html">Branding Package</a></li>
+            <li><a href="../PhotoRestoration.html">Photo Restoration</a></li>
+            <li><a href="../MagazineCover.html">Digital Magazine Cover</a></li>
+            <li><a href="../Branding.html">Branding Package</a></li>
          </ul>
     </ul>
 </nav>
 </head>
+<h1>Character Animation<h1>
+<video src="C:\Users\christinap\Desktop\Ed2go\Animate\animate-project-character animation\exports/project 1.wmv" controls auto
+height="480" width="640></video>
