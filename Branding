@@ -8,18 +8,12 @@
     <ul>
         <li><a href="index.html">Home</a></li>
         <li><a href="Resume.html">Resume</a></li>
-        <li><a href="AdobeAnimate.html">Adobe Animate</a></li>
-         <ul>
-            <li><a href="AdobeAnimate/CharacterAnimation.html">Character Animation</a></li>
-            <li><a href="AdobeAnimate/Advertisement.html">Advertisement</a></li>
-            <li><a href="AdobeAnimate/InteractiveBanner.html">Interactive Banner</a></li>
-         </ul>
-        <li><a href="AdobePhotoshop.html">Adobe Photoshop</a></li>
-         <ul>
-            <li><a href="../PhotoRestoration.html">Photo Restoration</a></li>
-            <li><a href="../MagazineCover.html">Digital Magazine Cover</a></li>
-            <li><a href="../Branding.html">Branding Package</a></li>
-         </ul>
+        <li><a href="Adobe Animate Character Animation.html">Character Animation</a></li>
+        <li><a href="Adobe Animate Advertisement.html">Advertisement</a></li>
+        <li><a href="Adobe Animate Interactive Banner.html">Interactive Banner</a></li>
+        <li><a href="Adobe Photoshop Photo Restoration.html">Photo Restoration</a></li>
+        <li><a href="Adobe Photoshop Magazine Cover.html">Digital Magazine Cover</a></li>
+        <li><a href="Adobe Photoshop Branding.html">Branding Package</a></li>
     </ul>
 </nav>
 </head>
