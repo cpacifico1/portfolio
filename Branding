@@ -16,10 +16,23 @@
          </ul>
         <li><a href="AdobePhotoshop.html">Adobe Photoshop</a></li>
          <ul>
-            <li><a href="AdobePhotoshop/PhotoRestoration.html">Photo Restoration</a></li>
-            <li><a href="AdobePhotoshop/MagazineCover.html">Digital Magazine Cover</a></li>
-            <li><a href="AdobePhotoshop/Branding.html">Branding Package</a></li>
+            <li><a href="../PhotoRestoration.html">Photo Restoration</a></li>
+            <li><a href="../MagazineCover.html">Digital Magazine Cover</a></li>
+            <li><a href="../Branding.html">Branding Package</a></li>
          </ul>
     </ul>
 </nav>
 </head>
+<h1>Branding Package</h1>
+<body>
+    <h2>Logo</h2>
+     <img src="C:/Users/chris/Desktop/Photoshop/Projects/photoshop-project-branding/exports/logo.png" alt="Logo">
+    <h2>Business Card Front</h2>
+     <img src="C:/Users/chris/Desktop/Photoshop/Projects/photoshop-project-branding/exports/business card front.png" alt="Business Card Front">
+    <h2>Business Card Back</h2>
+     <img src="C:/Users/chris/Desktop/Photoshop/Projects/photoshop-project-branding/exports/business card back.png" alt="Business Card Back">
+    <h2>Social Media Banner 1</h2>
+     <img src="C:/Users/chris/Desktop/Photoshop/Projects/photoshop-project-branding/exports/social media banner 1.png" alt="Social Media Banner 1">
+    <h2>Social Media Banner 2</h2>
+      <img src="C:/Users/chris/Desktop/Photoshop/Projects/photoshop-project-branding/exports/social media banner 2.png" alt="Social Media Banner 2">
+</body>
