@@ -1,9 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
+<head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<head>
 <title>My Portfolio</title>
+</head>
+<body>
 <nav>
     <ul>
         <li><a href="index.html">Home</a></li>
@@ -16,8 +18,7 @@
         <li><a href="AdobePhotoshopBranding.html">Branding Package</a></li>
     </ul>
 </nav>
-</head>
 <h1>Company Advertisement</h1>
-<body>
     <img src="C:/Users/christinap/Desktop/Ed2go/Animate/animate-project-characteranimation/Project2/Exports/Project-2.gif" alt="Company Advertisement">
 </body>
+</html>
