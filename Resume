@@ -8,17 +8,17 @@
     <ul>
         <li><a href="index.html">Home</a></li>
         <li><a href="Resume.html">Resume</a></li>
-        <li><a href="Adobe Animate Character Animation.html">Character Animation</a></li>
-        <li><a href="Adobe Animate Advertisement.html">Advertisement</a></li>
-        <li><a href="Adobe Animate Interactive Banner.html">Interactive Banner</a></li>
-        <li><a href="Adobe Photoshop Photo Restoration.html">Photo Restoration</a></li>
-        <li><a href="Adobe Photoshop Magazine Cover.html">Digital Magazine Cover</a></li>
-        <li><a href="Adobe Photoshop Branding.html">Branding Package</a></li>
+        <li><a href="AdobeAnimateCharacterAnimation.html">Character Animation</a></li>
+        <li><a href="AdobeAnimateAdvertisement.html">Advertisement</a></li>
+        <li><a href="AdobeAnimateInteractiveBanner.html">Interactive Banner</a></li>
+        <li><a href="AdobePhotoshopPhotoRestoration.html">Photo Restoration</a></li>
+        <li><a href="AdobePhotoshopMagazineCover.html">Digital Magazine Cover</a></li>
+        <li><a href="AdobePhotoshopBranding.html">Branding Package</a></li>
     </ul>
 </nav>
 </head>
 <h1>Resume</h1>
 <body>
-    <img src="C:/Users/christinap/Desktop/Ed2go/HTML/Pacifico Resume Page 1.png" alt="Resume Page 1">
-    <img src="C:/Users/christinap/Desktop/Ed2go/HTML/Pacifico Resume Page 2.png" alt="Resume Page 2">
+    <img src="C:/Users/christinap/Desktop/Ed2go/HTML/PacificoResumePage1.png" alt="Resume Page 1">
+    <img src="C:/Users/christinap/Desktop/Ed2go/HTML/PacificoResumePage2.png" alt="Resume Page 2">
 </body>
